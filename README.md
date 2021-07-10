@@ -1,10 +1,10 @@
-### Hi there 👋 , I'm Viktor
+# Hi there 👋 , I'm Viktor
 
 ## Connect with me
 
 [<img  alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/viktor-vashchenko-6b87ab208/)
 
-# I’m currently learning:
+## I’m currently learning:
 
 <img  alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
