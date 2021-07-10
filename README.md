@@ -2,9 +2,7 @@
 
 ## Connect with me
 
-[<img  alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/viktor-vashchenko-6b87ab208/)/br
-
-
+[<img  alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/viktor-vashchenko-6b87ab208/)
 
 # I’m currently learning:
 
