@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Viktor
 
-Learning data analytics. Background in finance.
+Junior Data Analyst with a background in finance.
 
 ## Connect with me
 
